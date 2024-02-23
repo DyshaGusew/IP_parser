@@ -120,7 +120,7 @@ def chekc_ip(tr):
             print(f"IP не проверено. Ошибка {ex}")
             return
     else:
-        print(f"IP не валидно. Ошибка")
+        print(f"IP не найдено на сайте")
         return
 
 
